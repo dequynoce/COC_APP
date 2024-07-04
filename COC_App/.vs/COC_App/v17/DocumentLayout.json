@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COC_APP\\COC_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF2FDD9-D3AE-4FFC-8A62-B6BBD44FB795}|COC_Thisinh\\COC_Thisinh.csproj|d:\\coc_app\\coc_app\\coc_thisinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF2FDD9-D3AE-4FFC-8A62-B6BBD44FB795}|COC_Thisinh\\COC_Thisinh.csproj|solutionrelative:coc_thisinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|d:\\coc_app\\coc_app\\coc_tech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COC_APP\\COC_App\\COC_Thisinh\\Form1.cs",
+              "RelativeDocumentMoniker": "COC_Thisinh\\Form1.cs",
+              "ToolTip": "D:\\COC_APP\\COC_App\\COC_Thisinh\\Form1.cs [Design]",
+              "RelativeToolTip": "COC_Thisinh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:19:23.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COC_APP\\COC_App\\COC_Tech\\Form1.cs",
+              "RelativeDocumentMoniker": "COC_Tech\\Form1.cs",
+              "ToolTip": "D:\\COC_APP\\COC_App\\COC_Tech\\Form1.cs [Design]",
+              "RelativeToolTip": "COC_Tech\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:17:00.715Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

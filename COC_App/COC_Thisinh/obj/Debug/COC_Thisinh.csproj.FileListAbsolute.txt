@@ -1,0 +1,10 @@
+D:\COC_APP\COC_App\COC_Thisinh\bin\Debug\COC_Thisinh.exe.config
+D:\COC_APP\COC_App\COC_Thisinh\bin\Debug\COC_Thisinh.exe
+D:\COC_APP\COC_App\COC_Thisinh\bin\Debug\COC_Thisinh.pdb
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.csproj.AssemblyReference.cache
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.Form_Thisinh.resources
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.Properties.Resources.resources
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.csproj.GenerateResource.cache
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.csproj.CoreCompileInputs.cache
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.exe
+D:\COC_APP\COC_App\COC_Thisinh\obj\Debug\COC_Thisinh.pdb

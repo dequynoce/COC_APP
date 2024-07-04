@@ -1,0 +1,10 @@
+D:\COC_APP\COC_App\COC_Tech\bin\Debug\COC_Tech.exe.config
+D:\COC_APP\COC_App\COC_Tech\bin\Debug\COC_Tech.exe
+D:\COC_APP\COC_App\COC_Tech\bin\Debug\COC_Tech.pdb
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.csproj.AssemblyReference.cache
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.Form_Tech.resources
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.Properties.Resources.resources
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.csproj.GenerateResource.cache
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.csproj.CoreCompileInputs.cache
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.exe
+D:\COC_APP\COC_App\COC_Tech\obj\Debug\COC_Tech.pdb
