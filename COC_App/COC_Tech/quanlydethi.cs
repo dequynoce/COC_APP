@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace COC_Tech
 {
-    public partial class Tech_TaskbarControl : UserControl
+    public partial class quanlydethi : Form
     {
-        public Tech_TaskbarControl()
+        public quanlydethi()
         {
             InitializeComponent();
-        }
-
-        private void button11_Click(object sender, EventArgs e)
-        {
-            quanlydethi qldt = new quanlydethi();
-            qldt.Show();
         }
     }
 }

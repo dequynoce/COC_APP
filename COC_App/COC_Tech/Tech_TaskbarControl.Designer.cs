@@ -29,9 +29,6 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -40,6 +37,9 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
@@ -86,39 +86,6 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(1990, 49);
             this.tableLayoutPanel1.TabIndex = 0;
-            // 
-            // button10
-            // 
-            this.button10.BackColor = System.Drawing.Color.Red;
-            this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button10.Location = new System.Drawing.Point(1593, 3);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(69, 43);
-            this.button10.TabIndex = 9;
-            this.button10.Text = "STOP";
-            this.button10.UseVisualStyleBackColor = false;
-            // 
-            // button9
-            // 
-            this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.button9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button9.Location = new System.Drawing.Point(1518, 3);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(69, 43);
-            this.button9.TabIndex = 8;
-            this.button9.Text = "Mode";
-            this.button9.UseVisualStyleBackColor = false;
-            // 
-            // button8
-            // 
-            this.button8.BackColor = System.Drawing.SystemColors.Control;
-            this.button8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button8.Location = new System.Drawing.Point(1343, 3);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(69, 43);
-            this.button8.TabIndex = 7;
-            this.button8.Text = "Kiểm tra tín hiệu";
-            this.button8.UseVisualStyleBackColor = false;
             // 
             // button7
             // 
@@ -199,6 +166,39 @@
             this.textBox1.Size = new System.Drawing.Size(244, 43);
             this.textBox1.TabIndex = 10;
             // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.SystemColors.Control;
+            this.button8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button8.Location = new System.Drawing.Point(1343, 3);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(69, 43);
+            this.button8.TabIndex = 7;
+            this.button8.Text = "Kiểm tra tín hiệu";
+            this.button8.UseVisualStyleBackColor = false;
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.button9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button9.Location = new System.Drawing.Point(1518, 3);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(69, 43);
+            this.button9.TabIndex = 8;
+            this.button9.Text = "Mode";
+            this.button9.UseVisualStyleBackColor = false;
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.Red;
+            this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button10.Location = new System.Drawing.Point(1593, 3);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(69, 43);
+            this.button10.TabIndex = 9;
+            this.button10.Text = "STOP";
+            this.button10.UseVisualStyleBackColor = false;
+            // 
             // button11
             // 
             this.button11.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -208,6 +208,7 @@
             this.button11.TabIndex = 11;
             this.button11.Text = "Đề thi";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // label1
             // 
