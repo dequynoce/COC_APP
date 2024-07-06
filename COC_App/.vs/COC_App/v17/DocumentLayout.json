@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\COC_APP\\COC_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|d:\\coc_app\\coc_app\\coc_tech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|d:\\coc_app\\coc_app\\coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|D:\\COC_APP\\COC_App\\coc_tech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|D:\\COC_APP\\COC_App\\coc_tech\\tech_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\tech_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|D:\\COC_APP\\COC_App\\coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,19 +30,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tech_Menu.cs [Design]",
               "DocumentMoniker": "D:\\COC_APP\\COC_App\\COC_Tech\\Tech_Menu.cs",
               "RelativeDocumentMoniker": "COC_Tech\\Tech_Menu.cs",
               "ToolTip": "D:\\COC_APP\\COC_App\\COC_Tech\\Tech_Menu.cs [Design]",
               "RelativeToolTip": "COC_Tech\\Tech_Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:20:20.673Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-04T18:20:20.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Tech_TaskbarControl.cs [Design]",
               "DocumentMoniker": "D:\\COC_APP\\COC_App\\COC_Tech\\Tech_TaskbarControl.cs",
               "RelativeDocumentMoniker": "COC_Tech\\Tech_TaskbarControl.cs",
@@ -54,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\COC_APP\\COC_App\\COC_Tech\\Form1.cs",
               "RelativeDocumentMoniker": "COC_Tech\\Form1.cs",
