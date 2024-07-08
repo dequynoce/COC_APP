@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\COC_APP\\COC_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|D:\\COC_APP\\COC_App\\coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|d:\\coc_app\\coc_app\\coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\tech_taskbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|d:\\coc_app\\coc_app\\coc_tech\\quanlydethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|D:\\COC_APP\\COC_App\\coc_tech\\quanlydethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E751BE62-A377-4714-9A37-4375D53B6258}|COC_Tech\\COC_Tech.csproj|solutionrelative:coc_tech\\quanlydethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "COC_Tech\\Tech_TaskbarControl.cs",
               "ToolTip": "D:\\COC_APP\\COC_App\\COC_Tech\\Tech_TaskbarControl.cs",
               "RelativeToolTip": "COC_Tech\\Tech_TaskbarControl.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBYAAAAYAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T08:20:43.884Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "D:\\COC_APP\\COC_App\\COC_Tech\\quanlydethi.cs [Design]",
               "RelativeToolTip": "COC_Tech\\quanlydethi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T08:14:52.093Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-06T08:14:52.093Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "ToolTip": "D:\\COC_APP\\COC_App\\COC_Tech\\Tech_TaskbarControl.cs [Design]",
               "RelativeToolTip": "COC_Tech\\Tech_TaskbarControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:00:21.283Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-04T18:00:21.283Z"
             },
             {
               "$type": "Document",
